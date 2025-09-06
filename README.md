@@ -1,4 +1,4 @@
-#  Coffee Shop Sales Dashboard | 2023 (Jan–Jun)
+# <img src="https://github.com/Santosh96736/Coffee_Shop_Sales_Dashboard/blob/main/coffee-cup.png" width="40"> Coffee Shop Sales Dashboard | 2023 (Jan–Jun) 
 📌 Project Overview
 
 I worked on a dataset of a coffee shop’s sales for the first half of 2023. The raw data needed some cleaning, so I used Excel Power Query to remove errors, make it consistent, and prepare it for analysis. Once the dataset was ready, I imported it into Tableau and built an interactive dashboard.
