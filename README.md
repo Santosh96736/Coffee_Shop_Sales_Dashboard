@@ -43,8 +43,10 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 ## 📂 What’s Included
 
-* [Tableau Workbook](https://github.com/Santosh96736/Coffee_Shop_Sales_Dashboard/blob/main/Coffee_Sales_Dashboard.twbx) → Tableau packaged workbook
+* Coffee_Shop_Sales_Dashboard.twbx → Tableau packaged workbook → [Download](https://github.com/Santosh96736/Coffee_Shop_Sales_Dashboard/blob/main/Coffee_Sales_Dashboard.twbx)
+
+* Raw_Sales_Data.xlsx → Dataset befor any cleaning → [Download](https://github.com/Santosh96736/Coffee_Shop_Sales_Dashboard/blob/main/Coffee_shop_data.xlsx)
 
 * Cleaned_Sales_Data.xlsx → Dataset after cleaning in Excel Power Query
 
-* dashboard.png → Dashboard snapshot
+* Dashboard.png → Dashboard snapshot
