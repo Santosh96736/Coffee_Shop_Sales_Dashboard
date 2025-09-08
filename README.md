@@ -1,29 +1,66 @@
 # <img src="https://github.com/Santosh96736/Coffee_Shop_Sales_Dashboard/blob/main/coffee-cup.png" width="40"> Coffee Shop Sales Dashboard | 2023 (Jan–Jun) 
 📌 Project Overview
 
-I worked on a dataset of a coffee shop’s sales for the first half of 2023. The raw data needed some cleaning, so I used Excel Power Query to remove errors, make it consistent, and prepare it for analysis. Once the dataset was ready, I imported it into Tableau and built an interactive dashboard.
+  I worked on a dataset of a coffee shop’s sales for the first half of 2023. The raw data needed some cleaning, so I used Excel Power Query to remove errors, make it           consistent, and prepare it for analysis. Once the dataset was ready, I imported it into Tableau and built an interactive dashboard.
 
 My goal was simple: create a dashboard that is not only insightful but also easy to read and visually appealing.  
 
+
+## 📑 Table of Contents
+
+1. [Project Overview](#Project-Overview)
+
+2. Business Problem
+
+3. Tools & Process
+
+4. Key KPIs
+
+5. Sales Dashboard Preview
+
+6. Insights
+
+7. Recommendations
+
+8.  What’s Included
+
+9. Repository Contents
+
                                                
-## 🎯 What I Focused On
+## 🎯 Business Problem
 
-* Cleaning and shaping the raw data with Excel Power Query
+  The coffee shop wanted to know:
 
-* Tracking key KPIs like Total Sales, Total Quantity Sold, Average Bill Per Transaction, and Average Order Per Transaction
+* When do customers buy the most?
 
-* Breaking down sales by categories, product types, sizes, and locations
+* Which products and sizes perform best?
 
-* Finding patterns in time (hours, weekdays, months) to see when customers buy the most
+* How do sales vary by location and time?
 
-* Keeping the design clean with a consistent coffee-inspired color theme ☕
+* What strategies could boost evening and weekend sales?
   
 
-## 🛠️ Tools I Used
+## 🛠️ Tools & Process I Used
 
 * **Excel Power Query** → Data cleaning and preparation
 
 * **Tableau Public** → Dashboard design and visualization
+
+* **GitHub** → Project documentation & sharing
+
+
+## 📊 Key KPIs
+
+* **Total Sales:** $699K
+
+* **Total Quantity Sold:** 142K units
+
+* **Average Bill Per Transaction:** $6.8
+
+* **Average Order Per Transaction:** 1.4 items
+
+
+## 📊 Sales Dashboard Preview
 
   ![Sales Dashboard](https://github.com/Santosh96736/Coffee_Shop_Sales_Dashboard/blob/main/Dashboard.png)
 
@@ -64,9 +101,10 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 
 ## 📂 Repository Details
+
 * **Repository Name:** Coffee Shop Sales Dashboard
 
-* Description: 
+* **Description:** Sales analysis of a coffee shop using Excel & Tableau
 
 * **Tools Used:** Excel, Power Query, Tableau
 
@@ -77,3 +115,7 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 * **Mail:** [santosh kumar sahu](santosh96736@gmail.com)
 
 * **GitHub Repository:** [Coffee Shop Sales Dashboard | 2023 (jan-jun)](https://github.com/Santosh96736/Coffee_Shop_Sales_Dashboard)
+
+* **Tableau Public:** [Coffee Shop Sales Dashboard](https://public.tableau.com/views/Coffee_Sales_Dashboard_17570860971600/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### 🔥 This project demonstrates my ability to clean messy datasets, build interactive dashboards, and translate data into meaningful business recommendations.  
