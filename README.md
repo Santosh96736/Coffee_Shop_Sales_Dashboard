@@ -12,7 +12,7 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 2. [Business Problem](#-Business-Problem)
 
-3. [Tools](#-Tools)
+3. [Tools](#-tools)
 
 4. [Key KPIs](#-Key-KPIs)
 
