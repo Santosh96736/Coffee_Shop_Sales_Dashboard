@@ -53,9 +53,9 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 * **Total Sales:** $699K
 
-* **Total Quantity Sold:** 142K units
+* **Total Quantity Sold:** 214.5K units
 
-* **Average Bill Per Transaction:** $6.8
+* **Average Bill Per Transaction:** $4.7
 
 * **Average Order Per Transaction:** 1.4 items
 
