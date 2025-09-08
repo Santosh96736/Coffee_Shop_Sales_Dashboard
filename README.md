@@ -12,19 +12,17 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 2. [Business Problem](#-Business-Problem)
 
-3. [Tools](#-Tools)
+3. [Key KPIs](#-Key-KPIs)
 
-4. [Key KPIs](#-Key-KPIs)
+4. [Sales Dashboard Preview](#-Sales-Dashboard-Preview)
 
-5. [Sales Dashboard Preview](#-Sales-Dashboard-Preview)
+5. [Insights](#-Some-Interesting-Insights)
 
-6. [Insights](#-Some-Interesting-Insights)
+6. [Recommendations](#-Recommendations)
 
-7. [Recommendations](#-Recommendations)
+7. [What’s Included](#-Whats-Included)
 
-8. [What’s Included](#-Whats-Included)
-
-9. [Repository Details](#-Repository-Details)
+8. [Repository Details](#-Repository-Details)
 
                                                
 ## 🎯 Business Problem
@@ -38,15 +36,8 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 * How do sales vary by location and time?
 
 * What strategies could boost evening and weekend sales?
+
   
-## Tools
-
-* **Excel Power Query** → Data cleaning and preparation
-
-* **Tableau Public** → Dashboard design and visualization
-
-* **GitHub** → Project documentation & sharing
-
 
 ## 📊 Key KPIs
 
