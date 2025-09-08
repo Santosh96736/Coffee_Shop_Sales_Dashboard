@@ -8,23 +8,23 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 ## 📑 Table of Contents
 
-1. [Project Overview](#Project-Overview)
+1. [Project Overview](#-Project-Overview)
 
-2. [Business Problem](#Business-Problem)
+2. [Business Problem](#-Business-Problem)
 
-3. [Tools & Process](#Tools-&-Process)
+3. [Tools & Process](#-Tools-&-Process)
 
-4. [Key KPIs](#Key-KPIs)
+4. [Key KPIs](#-Key-KPIs)
 
-5. [Sales Dashboard Preview](#Sales-Dashboard-Preview)
+5. [Sales Dashboard Preview](#-Sales-Dashboard-Preview)
 
-6. [Insights](#Insights)
+6. [Insights](#-Insights)
 
-7. [Recommendations](#Recommendation)
+7. [Recommendations](#-Recommendation)
 
-8.  [What’s Included](#What's-Included)
+8.  [What’s Included](#-What's-Included)
 
-9. [Repository Contents](#Repository-Contents)
+9. [Repository Contents](#-Repository-Contents)
 
                                                
 ## 🎯 Business Problem
