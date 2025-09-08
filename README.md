@@ -22,7 +22,7 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 7. [Recommendations](#-Recommendations)
 
-8.  [What’s Included](#-What-Included)
+8.  [What’s Included](#-Included)
 
 9. [Repository Contents](#-Repository-Details)
 
