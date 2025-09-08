@@ -22,9 +22,7 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 7. [What’s Included](#-Whats-Included)
 
-8. [Tools](#-Tools)
-
-9. [Repository Details](#-Repository-Details)
+8. [Repository Details](#-Repository-Details)
 
                                                
 ## 🎯 Business Problem
@@ -90,15 +88,6 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 * Cleaned_Sales_Data.xlsx → Dataset after cleaning in Excel Power Query → [Download](https://github.com/Santosh96736/Coffee_Shop_Sales_Dashboard/blob/main/Cleaned_Sales_Data.xlsx)
 
 * Dashboard.png → Dashboard snapshot → [Download](https://github.com/Santosh96736/Coffee_Shop_Sales_Dashboard/blob/main/Dashboard.png)
-
-
-## 🛠️ Tools
-
-Excel Power Query → Data cleaning & preparation
-
-Tableau Public → Dashboard design & visualization
-
-GitHub → Project documentation & sharing
 
 
 ## 📂 Repository Details
