@@ -20,11 +20,11 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 6. [Insights](#-Some-Interesting-Insights)
 
-7. [Recommendations](#-Recommendation)
+7. [Recommendations](#-Recommendations)
 
 8.  [What’s Included](#-What's-Included)
 
-9. [Repository Contents](#-Repository-Contents)
+9. [Repository Contents](#-Repository-Details)
 
                                                
 ## 🎯 Business Problem
