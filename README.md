@@ -12,7 +12,7 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 2. [Business Problem](#-Business-Problem)
 
-3. [Tools & Process](#-Tools-&-Process-I-Used)
+3. [Tools & Process](#-Tools--Process-I-Used)
 
 4. [Key KPIs](#-Key-KPIs)
 
@@ -22,9 +22,9 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 7. [Recommendations](#-Recommendations)
 
-8.  [What’s Included](#-Included)
+8.  [What’s Included](#-Whats-Included)
 
-9. [Repository Contents](#-Repository-Details)
+9. [Repository Details](#-Repository-Details)
 
                                                
 ## 🎯 Business Problem
