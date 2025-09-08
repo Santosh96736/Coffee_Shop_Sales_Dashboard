@@ -12,8 +12,6 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 2. [Business Problem](#-Business-Problem)
 
-3. [Tools & Process I Used](#️-tools--process-i-used)
-
 4. [Key KPIs](#-Key-KPIs)
 
 5. [Sales Dashboard Preview](#-Sales-Dashboard-Preview)
@@ -40,7 +38,6 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 * What strategies could boost evening and weekend sales?
   
 
-## 🛠️ Tools
 
 * **Excel Power Query** → Data cleaning and preparation
 
