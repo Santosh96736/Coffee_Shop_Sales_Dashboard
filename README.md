@@ -52,7 +52,7 @@ My goal was simple: create a dashboard that is not only insightful but also easy
 
 ## 📊 Sales Dashboard Preview
 
-  ![Sales Dashboard](https://github.com/Santosh96736/Coffee_Shop_Sales_Dashboard/blob/main/Dashboard.png)
+  ![Sales Dashboard](https://github.com/Santosh96736/Coffee_Shop_Sales_Dashboard/blob/main/Preview.png)
 
 
 ## 🔑 Some Interesting Insights
